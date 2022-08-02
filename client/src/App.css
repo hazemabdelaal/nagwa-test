@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: slategray;
+}
+
+@media screen and (max-width: 500px) {
+  .card {
+    width: 70%;
+  }
+}
